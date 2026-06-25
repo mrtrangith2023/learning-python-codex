@@ -9,4 +9,3 @@ print("My Tasks:")
 
 for task in tasks:
     print("-", task)
-
