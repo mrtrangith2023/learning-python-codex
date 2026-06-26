@@ -17,4 +17,4 @@ products = [
 ]
 
 for i, product in enumerate(products, start=1):
-    print(i, product)
+    print(f"{i}. {product}")

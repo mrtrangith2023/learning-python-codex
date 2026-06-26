@@ -16,6 +16,6 @@ transactions = [
     300
 ]
 
-print("Tổng volume: ")
+print("Tổng volume: ", sum(transactions))
 print("Volume lớn nhất: ", max(transactions))
 print("Số giao dịch:", len(transactions))
